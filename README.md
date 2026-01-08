@@ -81,16 +81,22 @@ I focus on:
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeasin-dev-me&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-dev-me&layout=compact&theme=tokyonight&hide_border=true)
+<img
+  src="https://yeasin-github-readme-stats.vercel.app/api?username=yeasin-dev-me&show_icons=true&theme=tokyonight&hide_border=true"
+  height="165"
+/>
+
+<img
+  src="https://yeasin-github-readme-stats.vercel.app/api/top-langs?username=yeasin-dev-me&layout=compact&theme=tokyonight&hide_border=true"
+  height="165"
+/>
 
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeasin-dev-me&theme=tokyo-night&hide_border=true)
 
 ---
 
