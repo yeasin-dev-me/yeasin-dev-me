@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yeasin Arafat
+#  Hi, I'm Yeasin Arafat
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Backend+%26+API+Specialist;Building+Scalable+SaaS+Platforms;Exploring+AI+%26+Machine+Learning" />
 
