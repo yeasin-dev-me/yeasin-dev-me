@@ -16,7 +16,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 🚀 About Me
+##  About Me
 
 I’m a **Full-Stack Software Engineer with 3+ years of experience** building **production-grade SaaS, healthcare, and AI-driven systems** used by real users.
 
